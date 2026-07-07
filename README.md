@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
