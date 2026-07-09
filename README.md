@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
