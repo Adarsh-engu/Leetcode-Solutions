@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -53,17 +54,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
