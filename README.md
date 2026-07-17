@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adarsh-engu/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
